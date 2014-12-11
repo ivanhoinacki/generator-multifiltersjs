@@ -1,14 +1,14 @@
 /*!
- * generator-multifiltersjs v0.0.4 (https://raw.githubusercontent.com/ivanhoinacki/multifiltersjs/master/dist/generator-multifiltersjs.min.js)
+ * generator-multifiltersjs v0.0.5 (https://raw.githubusercontent.com/ivanhoinacki/multifiltersjs/master/dist/generator-multifiltersjs.min.js)
  * Copyright 2010-2014 ivanhoinacki
  * Licensed under MIT (http://en.wikipedia.org/wiki/MIT_License)
  */
 (function($) {
   "use strict";
-  $.fn.multifilter = function(options) {
+  $.fn.multifiltersJS = function(options) {
     var settings = $.extend( {
       'target'        : $('table'),
-      'method'    : 'thead' // This can be thead or class
+      'method'    : 'thead' 
     }, options);
 
     jQuery.expr[":"].Equals = function(a, i, m) {
