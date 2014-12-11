@@ -1,0 +1,27 @@
+{
+  "name": "multifiltersjs",
+  "version": "0.0.8",
+  "description": "js input multifilters",
+  "main": "multifiltersjs.js",
+  "dependencies": {
+    "jquery": ">= 1.9.0",
+    "jquery-ui": "latest"
+  },
+  "keywords": [
+    "javascript",
+    "utils",
+    "library"
+  ],
+  "authors": [
+    "ivanhoinacki"
+  ],
+  "license": "MIT",
+  "homepage": "http://ivanhoinacki.github.io/multifiltersjs/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
