@@ -65,9 +65,9 @@ data-col='Filter3'
   </div>
 
   <div class="control-group">
-    <label for="txt-filter2" class="control-label">Filter3</label>
+    <label for="txt-filter3" class="control-label">Filter3</label>
     <div class="controls">
-      <input type="text" id="txt-filter2" name="txt-filter2" class="form-control" data-col='Filter3'>
+      <input type="text" id="txt-filter3" name="txt-filter3" class="form-control" data-col='Filter3'>
     </div>
   </div>
 </div>
