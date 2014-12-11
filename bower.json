@@ -1,6 +1,6 @@
 {
   "name": "multifiltersjs",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "js input multifilters",
   "main": "multifiltersjs.js",
   "dependencies": {
@@ -16,7 +16,7 @@
     "ivanhoinacki"
   ],
   "license": "MIT",
-  "homepage": "http://ivanhoinacki.github.io/multifiltersjs/",
+  "homepage": "http://github.com/ivanhoinacki/multifiltersjs",
   "ignore": [
     "**/.*",
     "node_modules",

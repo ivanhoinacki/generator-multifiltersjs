@@ -1,5 +1,5 @@
 /*!
- * multifiltersjs v0.0.7 (http://ivanhoinacki.github.io/multifiltersjs/)
+ * multifiltersjs v0.0.8 (http://github.com/ivanhoinacki/multifiltersjs)
  * Copyright 2010-2014 ivanhoinacki
  * Licensed under MIT (http://en.wikipedia.org/wiki/MIT_License)
  */

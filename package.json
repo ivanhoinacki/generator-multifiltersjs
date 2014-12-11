@@ -1,9 +1,9 @@
 {
   "name": "multifiltersjs",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "utils muti filters",
   "main": "multifiltersjs.js",
-  "homepage": "http://ivanhoinacki.github.io/multifiltersjs/",
+  "homepage": "http://github.com/ivanhoinacki/multifiltersjs",
   "author": "ivanhoinacki",
   "license": {
     "type": "MIT",
