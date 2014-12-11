@@ -1,6 +1,6 @@
 {
   "name": "generator-multifiltersjs",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Select multiple input of the same group to perform a filter that is made via js",
   "main": "multifiltersjs.js",
   "dependencies": {
@@ -16,7 +16,7 @@
     "ivanhoinacki"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/ivanhoinacki/multifiltersjs",
+  "homepage": "https://raw.githubusercontent.com/ivanhoinacki/multifiltersjs/master/dist/generator-multifiltersjs.min.js",
   "ignore": [
     "**/.*",
     "node_modules",
