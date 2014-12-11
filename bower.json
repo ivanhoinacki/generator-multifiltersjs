@@ -16,7 +16,7 @@
     "ivanhoinacki"
   ],
   "license": "MIT",
-  "homepage": "https://raw.githubusercontent.com/ivanhoinacki/multifiltersjs/master/dist/generator-multifiltersjs.min.js",
+  "homepage": "https://github.com/ivanhoinacki/multifiltersjs",
   "ignore": [
     "**/.*",
     "node_modules",

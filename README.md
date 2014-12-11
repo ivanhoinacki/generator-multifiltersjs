@@ -13,7 +13,7 @@ This package is available on Bower.
 
 ```sh
 # install a package and add it to bower.json
-$ bower install multifiltersjs --save
+$ bower install generator-multifiltersjs --save
 ```
 
 #### Install Bower.io
