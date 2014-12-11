@@ -1,9 +1,9 @@
 {
   "name": "multifiltersjs",
-  "version": "0.0.9",
-  "description": "utils muti filters",
+  "version": "0.0.10",
+  "description": "Select multiple input of the same group to perform a filter that is made via js",
   "main": "multifiltersjs.js",
-  "homepage": "http://github.com/ivanhoinacki/multifiltersjs",
+  "homepage": "https://github.com/ivanhoinacki/multifiltersjs",
   "author": "ivanhoinacki",
   "license": {
     "type": "MIT",

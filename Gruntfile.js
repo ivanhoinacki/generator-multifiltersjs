@@ -57,15 +57,6 @@ module.exports = function(grunt) {
           dest: 'dist/'
         }]
       }
-	  /*,
-      site: {
-        files: [{
-          expand: true,
-          dot: true,
-          src: ['dist/*.js'],
-          dest: 'docs/_site'
-        }]
-      }*/
     },
 
     /* rename files */
@@ -89,22 +80,6 @@ module.exports = function(grunt) {
 			}
     },
 
-    /* build jekyll */
-    shell: {
-      jekyllBuild: {
-        command: 'jekyll build --source docs --destination docs/_site'
-      }
-    },
-
-    /* commit on gh-pages github */
-    'gh-pages': {
-      options: {
-        base: 'docs/_site/',
-        message: 'auto-generated commit'
-      },
-      src: ['**/*']
-    },
-
     /* update bower json */
     bump: {
       options: {
@@ -123,10 +98,7 @@ module.exports = function(grunt) {
       'concat',
       'copy:dist',
       'rename',
-      'uglify',
-      //'shell',
-      //'copy:site',
-      //'gh-pages',
+      'uglify',      
       'bump'
   ]);
 
