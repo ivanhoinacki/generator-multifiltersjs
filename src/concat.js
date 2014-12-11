@@ -1,5 +1,5 @@
 /*!
- * generator-multifiltersjs v0.0.6 (https://raw.githubusercontent.com/ivanhoinacki/multifiltersjs/master/dist/generator-multifiltersjs.min.js)
+ * generator-multifiltersjs v0.0.7 (https://raw.githubusercontent.com/ivanhoinacki/generator-multifiltersjs/master/dist/generator-multifiltersjs.min.js)
  * Copyright 2010-2014 ivanhoinacki
  * Licensed under MIT (http://en.wikipedia.org/wiki/MIT_License)
  */
