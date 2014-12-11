@@ -1,6 +1,6 @@
 {
   "name": "generator-multifiltersjs",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Select multiple input of the same group to perform a filter that is made via js",
   "main": "multifiltersjs.js",
   "homepage": "https://raw.githubusercontent.com/ivanhoinacki/multifiltersjs/master/dist/generator-multifiltersjs.min.js",

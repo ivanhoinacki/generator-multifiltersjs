@@ -31,7 +31,7 @@ Call the plugin on any input you want to track and tell it what to look for with
 
 ```js
 $(document).ready(function() {
-  $('#formGroupFilters .form-control').multifilter({
+  $('#formGroupFilters .form-control').multifiltersJS({
     'target' : $('#table-dados')
   });
 })
