@@ -27,7 +27,7 @@ packages require it to be fetched and installed.
 
 #### Usage
 
-Call the plugin on any input you want to track and tell it what to look for with a data-col attribute:
+Call the plugin on any input you want to track and tell it what to look for with a data-col attribute: [DEMO](http://ivanhoinacki.github.io/generator-multifiltersjs/)
 
 ```js
 $(document).ready(function() {
