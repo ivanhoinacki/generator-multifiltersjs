@@ -9,6 +9,12 @@ Select multiple input of the same group to perform a filter that is made via js
 
 This package is available on Bower.
 
+#### Install Bower.io
+
+```sh
+$ npm install -g bower
+```
+
 #### Installing
 
 ```sh
@@ -16,18 +22,14 @@ This package is available on Bower.
 $ bower install generator-multifiltersjs --save
 ```
 
-#### Install Bower.io
-
-```sh
-$ npm install -g bower
-```
-
 Bower depends on [Node.js](http://nodejs.org/) and [npm](http://npmjs.org/). Also make sure that [git](http://git-scm.com/) is installed as some bower
 packages require it to be fetched and installed.
 
 #### Usage
 
-Call the plugin on any input you want to track and tell it what to look for with a data-col attribute: [DEMO](http://ivanhoinacki.github.io/generator-multifiltersjs/)
+[DEMO](http://ivanhoinacki.github.io/generator-multifiltersjs/)
+
+Call the plugin on any input you want to track and tell it what to look for with a data-col attribute:
 
 ```js
 $(document).ready(function() {
