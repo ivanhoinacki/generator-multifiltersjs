@@ -87,7 +87,7 @@ data-col='Filter3'
 
 ## Creator
 
-Created by [Ivan Augusto Hoinacki](http://ivanhoinacki)
+Created by [Ivan Augusto Hoinacki](http://ivanhoinacki.com)
 
 
 ## License
