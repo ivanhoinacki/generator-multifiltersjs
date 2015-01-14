@@ -89,7 +89,6 @@ data-col='Filter3'
 
 Created by [Ivan Augusto Hoinacki](http://ivanhoinacki.com)
 
-
 ## License
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
