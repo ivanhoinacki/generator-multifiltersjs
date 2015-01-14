@@ -91,4 +91,4 @@ Created by [Ivan Augusto Hoinacki](http://ivanhoinacki.com)
 
 ## License
 
-[MIT License](http://en.wikipedia.org/wiki/MIT_License)
+[MIT License](http://ivanhoinacki.mit-license.org/) © Ivan A. Hoinacki
