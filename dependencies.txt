@@ -3,10 +3,8 @@
 ------------------------------------
 - bower
 -- npm install -g bower
-
 - bower-installer (npm)
 -- npm install -g bower-installer
-
 - grunt
 -- npm install -g grunt-cli
 
