@@ -3,8 +3,6 @@ MultiFilters JS
 
 Select multiple input of the same group to perform a filter that is made via js
 
-<img align="right" height="150" width="200" src="http://bower.io/img/bower-logo.png">
-
 ## Bower.io
 
 This package is available on Bower.
